@@ -6,10 +6,10 @@
 Este proyecto tiene como objetivo desarrollar un modelo predictivo utilizando técnicas de aprendizaje automático y análisis de datos.
 
 ## Integrantes:
-### Cid Olmedo José Guadalupe
-### Jácome Toro Hugo
-### Pérez González Mariam
-### Pérez Reyes Daniela
+#### Cid Olmedo José Guadalupe
+#### Jácome Toro Hugo
+#### Pérez González Mariam
+#### Pérez Reyes Daniela
 
 ## ASESOR TÉCNICO:
 Dr. Luis Rolando Guarneros Nolasco
