@@ -1,4 +1,5 @@
-## Institución: Universidad Tecnológica del Centro de Veracruz. Clave de la Institución: 30MSU9027Z.
+## Institución: Universidad Tecnológica del Centro de Veracruz.
+## Clave de la Institución: 30MSU9027Z.
 
 ## Proyecto: Modelo predictivo con vehículos aéreos no tripulados para predicciones ambientales de calidad del aire.
 
