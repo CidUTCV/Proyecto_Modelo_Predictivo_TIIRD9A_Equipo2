@@ -7,6 +7,7 @@ Modelo predictivo con vehículos aéreos no tripulados para predicciones ambient
 Este proyecto tiene como objetivo desarrollar un modelo predictivo utilizando técnicas de aprendizaje automático y análisis de datos.
 
 ## Integrantes
+#### Amador Cierra Marco Polo
 #### Cid Olmedo José Guadalupe
 #### Jácome Toro Hugo
 #### Pérez González Mariam
