@@ -3,7 +3,7 @@
 ## Proyecto
 Modelo predictivo con vehículos aéreos no tripulados para predicciones ambientales de calidad del aire.
 
-## Descripción del Proyecto
+## Descripción
 Este proyecto tiene como objetivo desarrollar un modelo predictivo utilizando técnicas de aprendizaje automático y análisis de datos.
 
 ## Integrantes
